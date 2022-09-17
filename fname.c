@@ -1,2 +1,3 @@
 #include <stdio.h>
-//수정2
+//첫 번째 수정
+printf("1");
